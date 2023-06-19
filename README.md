@@ -1,4 +1,4 @@
-# Subnet-Calculator-with-Last-Octet
+# Subnet-Calculator-Last-Octet
 This subnet calculator is a tool for IP subnetting. It provides functions for calculating subnet information and displaying subnet tables. Please note that this calculator only supports removing the last octet from the IP address.
 
 Please note that the code may contain some features (bugs). Contributions and improvements are welcome.
