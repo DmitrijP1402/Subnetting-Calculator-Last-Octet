@@ -7,4 +7,4 @@ Feel free to fork it, contribute or report any issues on GitHub.
 
 
 # Output on the Console
-![image](https://github.com/DmitrijP1402/Subnet-Calculator-with-Last-Octet/assets/118051854/209ce4b2-9204-4e54-bd17-9f0f47e8f9cf)
+![image](https://github.com/DmitrijP1402/Subnetting-Calculator-Last-Octet/assets/118051854/6dfcc29c-b3c2-4d55-9b18-1db20bdba4c3)
